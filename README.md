@@ -8,6 +8,7 @@ Supermarket ticket
 *There is just one printer available, and it has two print modes: normal mode and elderly mode# Supermarket_Kata
 
 
+```
 Output example:
 ------------------------------------------
 Fri Jun 26 10:54:22 BST 2015
@@ -22,3 +23,4 @@ Others... .... +100
 (3x2) Salt 1Kg The Salt Man .... -100
 Total.....630
 Thanks for your visit!
+```
