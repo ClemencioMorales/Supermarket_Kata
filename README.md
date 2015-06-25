@@ -5,7 +5,7 @@ Supermarket ticket
 
 *At any time, an article can be updated and this should be reflected in every station.
 
-*There is just one printer available, and it has two print modes: normal mode and elderly mode# Supermarket_Kata
+*There is just one printer available, and it has two print modes: normal mode and elderly mode (with a bigger font size)
 
 
 ```
